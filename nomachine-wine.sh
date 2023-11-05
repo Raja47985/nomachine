@@ -19,7 +19,7 @@ echo "Go to: https://dashboard.ngrok.com/get-started/your-authtoken"
 ./ngrok authtoken 2Xk6Ylnblz9542qWGTFzjmn32eA_64w5DGzzcKg5NhqLWL4nD
 
 clear
-echo "Repo: https://github.com/afgrt56/nomachine"
+echo "Repo: https://github.com/Raja47985/nomachine"
 echo "======================="
 echo "choose ngrok region (for better connection)."
 echo "======================="
